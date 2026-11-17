@@ -1,0 +1,33 @@
+/* Radix Themes をこのサイトのトークンに接続する */
+.radix-themes {
+  --default-font-family: var(--font-body);
+  --heading-font-family: var(--font-body);
+  --strong-font-family: var(--font-body);
+  --em-font-family: var(--font-body);
+  --code-font-family: var(--font-body);
+  --cursor-button: pointer;
+  --cursor-link: pointer;
+
+  --radius-1: var(--radius);
+  --radius-2: var(--radius);
+  --radius-3: var(--radius);
+  --radius-4: var(--radius);
+  --radius-5: var(--radius);
+  --radius-6: var(--radius);
+
+  --default-letter-spacing: 0;
+  font-family: var(--font-body);
+}
+
+/* アクセント(朱)・グレー(温かい墨)に再定義。色は2系統のみ */
+.radix-themes.radix-themes {
+  --accent-1: #fbf6f4; --accent-2: #f6ece8; --accent-3: #f0dcd6; --accent-4: #e8c8bf;
+  --accent-5: #dfb0a5; --accent-6: #d29a8d; --accent-7: #c27f70; --accent-8: #b4604f;
+  --accent-9: #A63A30; --accent-10: #962f26; --accent-11: #A63A30; --accent-12: #4a1914;
+  --accent-contrast: #F4F0E7;
+  --gray-1: #faf8f3; --gray-2: #F4F0E7; --gray-3: #ebe6da; --gray-4: #e1dbcd;
+  --gray-5: #d6cfbf; --gray-6: #c9c2b0; --gray-7: #b8b09c; --gray-8: #9d957f;
+  --gray-9: #787260; --gray-10: #6b6555; --gray-11: #5b574d; --gray-12: #292824;
+  --color-background: var(--bg);
+  --color-overlay: rgba(17, 17, 16, .7);
+}

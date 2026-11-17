@@ -1,0 +1,2829 @@
+{
+ "sections": [
+  {
+   "id": "holly-cow",
+   "folder": "Holly cow",
+   "label": "ホーリー・カウ",
+   "labelEn": "Holy Cow",
+   "order": 1,
+   "provisional": true
+  },
+  {
+   "id": "kacchu",
+   "folder": "甲冑",
+   "label": "甲冑",
+   "labelEn": "Helmets",
+   "order": 2,
+   "provisional": true
+  },
+  {
+   "id": "mokume",
+   "folder": "木目",
+   "label": "木目",
+   "labelEn": "Wood grain",
+   "order": 3,
+   "provisional": true
+  },
+  {
+   "id": "animal",
+   "folder": "animal",
+   "label": "動物",
+   "labelEn": "Animals",
+   "order": 4,
+   "provisional": true
+  },
+  {
+   "id": "fish",
+   "folder": "fish",
+   "label": "魚",
+   "labelEn": "Fish",
+   "order": 5,
+   "provisional": true
+  },
+  {
+   "id": "art",
+   "folder": "art",
+   "label": "アート",
+   "labelEn": "Art",
+   "order": 6,
+   "provisional": true
+  },
+  {
+   "id": "bay",
+   "folder": "bay",
+   "label": "ベイ",
+   "labelEn": "Bay",
+   "order": 7,
+   "provisional": true
+  },
+  {
+   "id": "cowhide",
+   "folder": "cowhide",
+   "label": "牛革",
+   "labelEn": "Cowhide",
+   "order": 8,
+   "provisional": true
+  },
+  {
+   "id": "collage-art",
+   "folder": "collage art",
+   "label": "コラージュ",
+   "labelEn": "Collage",
+   "order": 9,
+   "provisional": true
+  },
+  {
+   "id": "nature",
+   "folder": "nature",
+   "label": "自然",
+   "labelEn": "Nature",
+   "order": 10,
+   "provisional": true
+  },
+  {
+   "id": "guillotine",
+   "folder": "guillotine",
+   "label": "ギロチン",
+   "labelEn": "Guillotine",
+   "order": 11,
+   "provisional": true
+  },
+  {
+   "id": "cartoon",
+   "folder": "cartoon",
+   "label": "カートゥーン",
+   "labelEn": "Cartoon",
+   "order": 12,
+   "provisional": true
+  },
+  {
+   "id": "human",
+   "folder": "human",
+   "label": "ひと",
+   "labelEn": "Human",
+   "order": 13,
+   "provisional": true
+  },
+  {
+   "id": "malum",
+   "folder": "malum",
+   "label": "マルム",
+   "labelEn": "Malum",
+   "order": 14,
+   "provisional": true
+  },
+  {
+   "id": "ip",
+   "folder": "IP",
+   "label": "IP",
+   "labelEn": "IP",
+   "order": 15,
+   "provisional": true
+  },
+  {
+   "id": "other",
+   "folder": "other",
+   "label": "その他",
+   "labelEn": "Other",
+   "order": 16,
+   "provisional": true
+  }
+ ],
+ "works": [
+  {
+   "id": "w7421",
+   "section": "holly-cow",
+   "order": 1,
+   "images": [
+    "IMG_7421"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 01",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7421": "赤い縁取りが三角形に走り、青紫のうろこ状の面を分ける縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7422",
+   "section": "holly-cow",
+   "order": 2,
+   "images": [
+    "IMG_7422"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 02",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7422": "朱色の面が斜めに伸び、青緑のうろこ状の面と交わる縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7423",
+   "section": "holly-cow",
+   "order": 3,
+   "images": [
+    "IMG_7423"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 03",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7423": "朱色の枠の中に淡い色が重なる縦長の作品。下部に小さな金色の立体がある"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7424",
+   "section": "holly-cow",
+   "order": 4,
+   "images": [
+    "IMG_7424"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 04",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7424": "黄色の面に、緑の大きな形と牛の模様の断片が置かれた横長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7425",
+   "section": "holly-cow",
+   "order": 5,
+   "images": [
+    "IMG_7425"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 05",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7425": "黄色の面に赤い点が散り、緑の形と牛の模様の断片が配された横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7426",
+   "section": "holly-cow",
+   "order": 6,
+   "images": [
+    "IMG_7426"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 06",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7426": "ピンクの円弧の面に、緑の凹凸のある形が斜めに差し込む縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7427",
+   "section": "holly-cow",
+   "order": 7,
+   "images": [
+    "IMG_7427"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 07",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7427": "朱色と緑のうろこ状の面が組み合わさった縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7428",
+   "section": "holly-cow",
+   "order": 8,
+   "images": [
+    "IMG_7428"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 08",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7428": "緑、黄、紫が重なる細かな凹凸の面をもつ縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7429",
+   "section": "holly-cow",
+   "order": 9,
+   "images": [
+    "IMG_7429"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 09",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7429": "生成りの板に、白い線でカタカナの「ウシ」が描かれた縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7430",
+   "section": "holly-cow",
+   "order": 10,
+   "images": [
+    "IMG_7430"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 10",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7430": "上部に赤い三角形、中央に生成りの面、下部に紺色の帯が並ぶ縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7431",
+   "section": "holly-cow",
+   "order": 11,
+   "images": [
+    "IMG_7431"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 11",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7431": "黄、緑、赤が細かく入り混じる凹凸の面をもつ縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7432",
+   "section": "holly-cow",
+   "order": 12,
+   "images": [
+    "IMG_7432"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 12",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7432": "赤い面に、牛の模様の断片と緑の面が貼られた縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7433",
+   "section": "holly-cow",
+   "order": 13,
+   "images": [
+    "IMG_7433"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 13",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7433": "白地に黒い不規則な模様の形が大きく置かれ、周囲を緑や赤が囲む作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7434",
+   "section": "holly-cow",
+   "order": 14,
+   "images": [
+    "IMG_7434"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 14",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7434": "緑や黄の凹凸の面の下部に、牛の模様の小さな形がある金色の縁の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7435",
+   "section": "holly-cow",
+   "order": 15,
+   "images": [
+    "IMG_7435"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 15",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7435": "赤い面に黄色の文字「HOLY COW」と、下部に牛の模様が配された縦長の額装作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7436",
+   "section": "holly-cow",
+   "order": 16,
+   "images": [
+    "IMG_7436"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 16",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7436": "赤い面の中央に、牛の頭のような形が置かれた縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7437",
+   "section": "holly-cow",
+   "order": 17,
+   "images": [
+    "IMG_7437"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 17",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7437": "赤茶色の木の枠に、黒い面と赤い斑点が並ぶ台形の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7438",
+   "section": "holly-cow",
+   "order": 18,
+   "images": [
+    "IMG_7438"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 18",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7438": "ピンク色の枠の中に橙色の面と小さな四角が置かれた台形の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7439",
+   "section": "holly-cow",
+   "order": 19,
+   "images": [
+    "IMG_7439"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 19",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7439": "白地に牛の姿が描かれ、角に金や黒の縁取りがある横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7440",
+   "section": "holly-cow",
+   "order": 20,
+   "images": [
+    "IMG_7440"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 20",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7440": "暗い木地に、緑の鳥のような形と淡い色の切片が貼られた横長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7482",
+   "section": "holly-cow",
+   "order": 21,
+   "images": [
+    "IMG_7482"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ホーリー・カウ 21",
+   "title": null,
+   "form": "sculpture",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7482": "白く不規則な形に、赤や緑の色が差し込む立体作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7485",
+   "section": "kacchu",
+   "order": 1,
+   "images": [
+    "IMG_7485"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "甲冑 01",
+   "title": null,
+   "form": "sculpture",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7485": "黒と紫の布のような面でできた細長い立体作品。左端に緑の小さな形がある"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7498",
+   "section": "kacchu",
+   "order": 2,
+   "images": [
+    "IMG_7498",
+    "IMG_7499",
+    "IMG_7503"
+   ],
+   "imageGroupStatus": "candidate",
+   "provisionalTitle": "甲冑 02",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7498": "緑と橙が混ざる笠状の立体作品。縁は金色の粒状の面",
+    "IMG_7499": "緑と橙の面に文字が見える笠状の立体作品を斜め上から見た図",
+    "IMG_7503": "緑と橙の面にピンクの文字が見える、円形の立体作品を上から見た図"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7500",
+   "section": "kacchu",
+   "order": 3,
+   "images": [
+    "IMG_7500",
+    "IMG_7501",
+    "IMG_7502"
+   ],
+   "imageGroupStatus": "candidate",
+   "provisionalTitle": "甲冑 03",
+   "title": null,
+   "form": "sculpture",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7500": "黄色の丸い頭部に硬貨のような円が並び、緑の裾と銅色の小さな形をもつ立体作品",
+    "IMG_7501": "黄色の丸い頭部と緑の裾、銅色の小さな形をもつ立体作品の別の角度",
+    "IMG_7502": "黄色の面に円形の飾りが放射状に並ぶ立体作品を上から見た図"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7504",
+   "section": "kacchu",
+   "order": 4,
+   "images": [
+    "IMG_7504",
+    "IMG_7505",
+    "IMG_7506"
+   ],
+   "imageGroupStatus": "candidate",
+   "provisionalTitle": "甲冑 04",
+   "title": null,
+   "form": "sculpture",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7504": "赤とピンクの毛並みのような凹凸をもつ、筒状の立体作品",
+    "IMG_7505": "赤とピンクの渦のような凹凸をもつ立体作品を上から見た図",
+    "IMG_7506": "赤い凹凸の外面と、黄緑の内側が見える半割りの立体作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7507",
+   "section": "kacchu",
+   "order": 5,
+   "images": [
+    "IMG_7507",
+    "IMG_7509",
+    "IMG_7510"
+   ],
+   "imageGroupStatus": "candidate",
+   "provisionalTitle": "甲冑 05",
+   "title": null,
+   "form": "sculpture",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7507": "黒い丸い頭部に、黄色のつばが付いた立体作品。下から茶色の脚のような形が覗く",
+    "IMG_7509": "黒い丸い頭部と黄色のつばをもつ立体作品を正面寄りから見た図",
+    "IMG_7510": "黒い丸い面に黄色の円弧が重なる立体作品を上から見た図"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7511",
+   "section": "kacchu",
+   "order": 6,
+   "images": [
+    "IMG_7511",
+    "IMG_7512",
+    "IMG_7514"
+   ],
+   "imageGroupStatus": "candidate",
+   "provisionalTitle": "甲冑 06",
+   "title": null,
+   "form": "sculpture",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7511": "二本の角をもつ緑青の頭部と、赤い骸骨のような面をもつ立体作品",
+    "IMG_7512": "二本の角と文字の凹凸をもつ緑青の立体作品を上から見た図",
+    "IMG_7514": "二本の角をもつ緑青の頭部と赤い面をもつ立体作品の別の角度"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7516",
+   "section": "kacchu",
+   "order": 7,
+   "images": [
+    "IMG_7516",
+    "IMG_7517",
+    "IMG_7519",
+    "IMG_7520"
+   ],
+   "imageGroupStatus": "candidate",
+   "provisionalTitle": "甲冑 07",
+   "title": null,
+   "form": "sculpture",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7516": "青い半球と赤い凹凸の半球が合わさり、両脇に緑の筒が付いた立体作品",
+    "IMG_7517": "青い頭部と赤茶色のつばをもち、下に台のようなものが見える立体作品",
+    "IMG_7519": "青い頭部と反ったつば、細かな線が刻まれた下部をもつ立体作品",
+    "IMG_7520": "赤い凹凸の頭部と、刻まれた下部をもつ立体作品。左に茶色の小さな形が見える"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7365",
+   "section": "mokume",
+   "order": 1,
+   "images": [
+    "IMG_7365"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "木目 01",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7365": "九つの木目の面が、緑、黄、橙、茶、赤、青、紫などの色で並ぶ正方形の作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7459",
+   "section": "mokume",
+   "order": 2,
+   "images": [
+    "IMG_7459"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "木目 02",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7459": "青い木目の面に、黄色と白の帯と、灰色の小さな毛皮状の形が置かれた作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7460",
+   "section": "mokume",
+   "order": 3,
+   "images": [
+    "IMG_7460"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "木目 03",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7460": "青い木目の面を、赤い筋が斜めに走る作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7461",
+   "section": "mokume",
+   "order": 4,
+   "images": [
+    "IMG_7461"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "木目 04",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7461": "橙と緑の木目が等高線のように波打つ作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7462",
+   "section": "mokume",
+   "order": 5,
+   "images": [
+    "IMG_7462"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "木目 05",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7462": "青い木目の面に、緑の縁取りをもつ橙色の山のような形が立つ作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7468",
+   "section": "mokume",
+   "order": 6,
+   "images": [
+    "IMG_7468"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "木目 06",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7468": "金色の枠の中に、九つの凹凸のある色面が並ぶ額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7473",
+   "section": "mokume",
+   "order": 7,
+   "images": [
+    "IMG_7473"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "木目 07",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7473": "黄から橙の木目の面に、白い光のような反射がある作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7475",
+   "section": "mokume",
+   "order": 8,
+   "images": [
+    "IMG_7475"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "木目 08",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7475": "青、黄、ピンクの細い横線が重なる、木目の面の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7476",
+   "section": "mokume",
+   "order": 9,
+   "images": [
+    "IMG_7476"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "木目 09",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7476": "橙とピンクの面に、青緑の濃い帯が縦に走る木目の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7368",
+   "section": "animal",
+   "order": 1,
+   "images": [
+    "IMG_7368"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "動物 01",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7368": "上部に犬の姿があり、赤や緑、茶の面が層になって下へ続く縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7369",
+   "section": "animal",
+   "order": 2,
+   "images": [
+    "IMG_7369"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "動物 02",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7369": "肌色の形と、青、緑、茶の面が組み合わさった縦長の不定形の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7442",
+   "section": "animal",
+   "order": 3,
+   "images": [
+    "IMG_7442"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "動物 03",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7442": "金色の縁の中に、暗い茶色の面と橙色の形が置かれた縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7443",
+   "section": "animal",
+   "order": 4,
+   "images": [
+    "IMG_7443"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "動物 04",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7443": "生成り色の面に、ピンク色の動物のような形が置かれた横長の金縁の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7444",
+   "section": "animal",
+   "order": 5,
+   "images": [
+    "IMG_7444"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "動物 05",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7444": "黒い面に、金や銀が重なる毛並みのような凹凸が広がる横長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7445",
+   "section": "animal",
+   "order": 6,
+   "images": [
+    "IMG_7445"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "動物 06",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7445": "焦げたような茶色の板に、刻まれた線と小さな札の形がある横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7449",
+   "section": "animal",
+   "order": 7,
+   "images": [
+    "IMG_7449"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "動物 07",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7449": "赤い縁の中に、橙色の細かな凹凸が広がる横長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7453",
+   "section": "animal",
+   "order": 8,
+   "images": [
+    "IMG_7453"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "動物 08",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7453": "黄色と黒の面に、赤い突起のある脚のような形が立つ額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7467",
+   "section": "animal",
+   "order": 9,
+   "images": [
+    "IMG_7467"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "動物 09",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7467": "木枠の中に、緑、黄、赤の質感の違う面が横に並んだ作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7481",
+   "section": "animal",
+   "order": 10,
+   "images": [
+    "IMG_7481"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "動物 10",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7481": "金色の額の中に、赤いキリンの小さな立体が取り付けられた縦長の作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7484",
+   "section": "animal",
+   "order": 11,
+   "images": [
+    "IMG_7484"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "動物 11",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7484": "赤い面に、青い小さな頭のような立体と黄色の網目の形がある縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7366",
+   "section": "fish",
+   "order": 1,
+   "images": [
+    "IMG_7366"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "魚 01",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7366": "赤、橙、緑が細かな模様となって広がる、黒い縁の横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7367",
+   "section": "fish",
+   "order": 2,
+   "images": [
+    "IMG_7367"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "魚 02",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7367": "白い面に、緑と青の波のような形が描かれた横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7379",
+   "section": "fish",
+   "order": 3,
+   "images": [
+    "IMG_7379"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "魚 03",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7379": "上部に赤い魚の立体が付き、青と白、赤茶色の形が並ぶ縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7380",
+   "section": "fish",
+   "order": 4,
+   "images": [
+    "IMG_7380"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "魚 04",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7380": "青紫と黄の面に、赤い人のような形が描かれた黒い縁の縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7416",
+   "section": "fish",
+   "order": 5,
+   "images": [
+    "IMG_7416"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "魚 05",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7416": "緑の縁の中に、赤い帯と透明感のある魚の形が十字に置かれた縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7417",
+   "section": "fish",
+   "order": 6,
+   "images": [
+    "IMG_7417"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "魚 06",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7417": "青い面に、橙色の魚のような形と上部に白い断片の帯がある横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7419",
+   "section": "fish",
+   "order": 7,
+   "images": [
+    "IMG_7419"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "魚 07",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7419": "青と白の渦が一面に広がり、橙色の魚が描かれた横長の作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7420",
+   "section": "fish",
+   "order": 8,
+   "images": [
+    "IMG_7420"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "魚 08",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7420": "青と白の渦の中に、ピンク色の魚が横たわる横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7455",
+   "section": "fish",
+   "order": 9,
+   "images": [
+    "IMG_7455"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "魚 09",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7455": "青い面に、上部に橙色の大きな円弧、下部に白い形が置かれた、白い枠の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7406",
+   "section": "art",
+   "order": 1,
+   "images": [
+    "IMG_7406"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "アート 01",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7406": "赤黒い円形の面に、金色の目のような形が置かれた作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7407",
+   "section": "art",
+   "order": 2,
+   "images": [
+    "IMG_7407"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "アート 02",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7407": "赤い顔のような形を、緑や黄の飛沫が囲む円形の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7411",
+   "section": "art",
+   "order": 3,
+   "images": [
+    "IMG_7411"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "アート 03",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7411": "金色の頭蓋骨の形を、赤、緑、橙の飛沫が囲む円形の作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7412",
+   "section": "art",
+   "order": 4,
+   "images": [
+    "IMG_7412"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "アート 04",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7412": "暗い木枠の中に、斜めの桟と赤い面、金色の角飾りが入った額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7413",
+   "section": "art",
+   "order": 5,
+   "images": [
+    "IMG_7413"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "アート 05",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7413": "黄色の面に、赤い矢印のような形が置かれた、青い縁の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7415",
+   "section": "art",
+   "order": 6,
+   "images": [
+    "IMG_7415"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "アート 06",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7415": "生成りの板に、紺と黒の渦巻き状の線と小さなハートが描かれた作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7469",
+   "section": "art",
+   "order": 7,
+   "images": [
+    "IMG_7469"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "アート 07",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7469": "白い木枠の中の灰色の面に、赤い円盤が置かれた横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7477",
+   "section": "art",
+   "order": 8,
+   "images": [
+    "IMG_7477"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "アート 08",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7477": "橙色の面に、黒い立体的な生き物の形が置かれた円形の皿状の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7478",
+   "section": "art",
+   "order": 9,
+   "images": [
+    "IMG_7478"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "アート 09",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7478": "黒い枠の中で、橙と黒の面に人形のような形が立つ横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7373",
+   "section": "bay",
+   "order": 1,
+   "images": [
+    "IMG_7373"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ベイ 01",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7373": "白い枠の中に、二段の赤い面が並ぶ額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7374",
+   "section": "bay",
+   "order": 2,
+   "images": [
+    "IMG_7374"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ベイ 02",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7374": "暗い地に、緑と白、赤の人物が縦の線越しに描かれた作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7385",
+   "section": "bay",
+   "order": 3,
+   "images": [
+    "IMG_7385"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ベイ 03",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7385": "白い枠の中の黒い面に、上に黄色の三日月、下に赤い半円が置かれた額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7386",
+   "section": "bay",
+   "order": 4,
+   "images": [
+    "IMG_7386"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ベイ 04",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7386": "生成りの板に、黒い線画の人物と白い線が描かれた縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7387",
+   "section": "bay",
+   "order": 5,
+   "images": [
+    "IMG_7387"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ベイ 05",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7387": "白い枠の中の暗い面に、多色の円盤が置かれた額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7470",
+   "section": "bay",
+   "order": 6,
+   "images": [
+    "IMG_7470"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ベイ 06",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7470": "暗い木枠の中に、橙色の太陽の形と黄色の月の形が上下に置かれた額装作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7471",
+   "section": "bay",
+   "order": 7,
+   "images": [
+    "IMG_7471"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ベイ 07",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7471": "暗い木枠の中に、黄色の三日月と赤い面が上下に配された額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7472",
+   "section": "bay",
+   "order": 8,
+   "images": [
+    "IMG_7472"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ベイ 08",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7472": "黒い枠の中に、金色の形と赤い半円、緑の面が上下に配された額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7489",
+   "section": "cowhide",
+   "order": 1,
+   "images": [
+    "IMG_7489"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "牛革 01",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7489": "黒い地に、ピンクの手形が並び、緑の帯が縦に走る作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7490",
+   "section": "cowhide",
+   "order": 2,
+   "images": [
+    "IMG_7490"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "牛革 02",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7490": "赤い面に、淡い緑の四角と黒、淡黄色の面が置かれた作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7491",
+   "section": "cowhide",
+   "order": 3,
+   "images": [
+    "IMG_7491"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "牛革 03",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7491": "黒い地に、緑、ピンク、黄の筆跡が広がる作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7492",
+   "section": "cowhide",
+   "order": 4,
+   "images": [
+    "IMG_7492"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "牛革 04",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7492": "多色の筆跡の中に、白と黒の模様をもつ部分がある作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7493",
+   "section": "cowhide",
+   "order": 5,
+   "images": [
+    "IMG_7493"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "牛革 05",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7493": "細かな多色の筆跡の下部に、緑の立体的な形が突き出た作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7494",
+   "section": "cowhide",
+   "order": 6,
+   "images": [
+    "IMG_7494"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "牛革 06",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7494": "黒い地に、多色の点が一面に広がる作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7495",
+   "section": "cowhide",
+   "order": 7,
+   "images": [
+    "IMG_7495"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "牛革 07",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7495": "淡い色が重なる、輪郭が不定形の大きな面の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7390",
+   "section": "collage-art",
+   "order": 1,
+   "images": [
+    "IMG_7390"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "コラージュ 01",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7390": "青く荒れた縁の中に、色とりどりの紙片でできた形が置かれた額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7391",
+   "section": "collage-art",
+   "order": 2,
+   "images": [
+    "IMG_7391"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "コラージュ 02",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7391": "赤い面に、多色の紙片でできた形が置かれた八角形の額装作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7392",
+   "section": "collage-art",
+   "order": 3,
+   "images": [
+    "IMG_7392"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "コラージュ 03",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7392": "白と黒の縁の中の茶色の面に、多色の紙片の形が置かれた額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7393",
+   "section": "collage-art",
+   "order": 4,
+   "images": [
+    "IMG_7393"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "コラージュ 04",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7393": "青い面に、紙片でできた風船の形と白い紐が置かれた額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7409",
+   "section": "collage-art",
+   "order": 5,
+   "images": [
+    "IMG_7409"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "コラージュ 05",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7409": "橙色の髪をもつ人物の横顔が大きく貼り込まれた縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7410",
+   "section": "collage-art",
+   "order": 6,
+   "images": [
+    "IMG_7410"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "コラージュ 06",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7410": "橙色の円形の髪飾りをもつ人物が写る、輪郭が不定形の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7377",
+   "section": "nature",
+   "order": 1,
+   "images": [
+    "IMG_7377"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "自然 01",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7377": "白い枠の中に、赤と橙の円盤が置かれた横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7378",
+   "section": "nature",
+   "order": 2,
+   "images": [
+    "IMG_7378"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "自然 02",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7378": "白い枠の中に、青と白の渦の円盤が置かれた横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7383",
+   "section": "nature",
+   "order": 3,
+   "images": [
+    "IMG_7383",
+    "IMG_7384"
+   ],
+   "imageGroupStatus": "candidate",
+   "provisionalTitle": "自然 03",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7383": "暗い枠の中に、橙色の円が浮かぶ赤黒い面の額装作品",
+    "IMG_7384": "暗い木の枠に、紐が掛かった板の裏面のような作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7388",
+   "section": "nature",
+   "order": 4,
+   "images": [
+    "IMG_7388"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "自然 04",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7388": "白地に黄色の円と手書きの文字、淡いピンクの渦が描かれた作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7456",
+   "section": "nature",
+   "order": 5,
+   "images": [
+    "IMG_7456"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "自然 05",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7456": "金色の縁の中に、焦げ茶の面と金色の塊、下部の赤い帯がある横長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7479",
+   "section": "nature",
+   "order": 6,
+   "images": [
+    "IMG_7479"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "自然 06",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7479": "青い面の上に黄色の半円、下に赤い山の形が置かれた金縁の額装作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7394",
+   "section": "guillotine",
+   "order": 1,
+   "images": [
+    "IMG_7394"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ギロチン 01",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7394": "暗い木枠の中に、赤い面と下部の鏡のような面が分かれた縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7395",
+   "section": "guillotine",
+   "order": 2,
+   "images": [
+    "IMG_7395"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ギロチン 02",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7395": "暗い木枠の中に、赤い面と下部の鏡のような三角の面がある縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7396",
+   "section": "guillotine",
+   "order": 3,
+   "images": [
+    "IMG_7396"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ギロチン 03",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7396": "暗い木枠の中に、赤い面が斜めに切り取られ、鏡のような面が覗く作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7397",
+   "section": "guillotine",
+   "order": 4,
+   "images": [
+    "IMG_7397"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ギロチン 04",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7397": "木枠の中に、黒い形をもつ橙色の三角の面があり、残りは抜けている作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7398",
+   "section": "guillotine",
+   "order": 5,
+   "images": [
+    "IMG_7398"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ギロチン 05",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7398": "凹凸のある暗い枠の中に、赤と黄が交わる面と下部の鏡のような面が入った縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7399",
+   "section": "guillotine",
+   "order": 6,
+   "images": [
+    "IMG_7399"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ギロチン 06",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7399": "暗い木枠の中に、赤い面と下部の鏡のような面が組み合わさった縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7400",
+   "section": "guillotine",
+   "order": 7,
+   "images": [
+    "IMG_7400"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ギロチン 07",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7400": "焼いたような木枠の中に、暗い赤の面と鏡のような面があり、下部に文字が見える縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7370",
+   "section": "cartoon",
+   "order": 1,
+   "images": [
+    "IMG_7370"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "カートゥーン 01",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7370": "赤茶色の面に、金色の文字のような形と赤い鉄塔のような形が並ぶ縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7371",
+   "section": "cartoon",
+   "order": 2,
+   "images": [
+    "IMG_7371"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "カートゥーン 02",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7371": "上部に赤と白の縞と青い星の面、下部に灰色の面が配された縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7375",
+   "section": "cartoon",
+   "order": 3,
+   "images": [
+    "IMG_7375"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "カートゥーン 03",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7375": "黒い面に、緑や赤の丸い塊が房のように描かれた金縁の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7376",
+   "section": "cartoon",
+   "order": 4,
+   "images": [
+    "IMG_7376"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "カートゥーン 04",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7376": "暗い赤の面に、ワイングラスが白い線で描かれた額装作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7441",
+   "section": "cartoon",
+   "order": 5,
+   "images": [
+    "IMG_7441"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "カートゥーン 05",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7441": "黒と朱色が入り混じる細かな模様をもつ、暗い枠の横長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7464",
+   "section": "cartoon",
+   "order": 6,
+   "images": [
+    "IMG_7464"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "カートゥーン 06",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7464": "青紫の面に、白い三角形と赤、青の帯が置かれた横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7466",
+   "section": "cartoon",
+   "order": 7,
+   "images": [
+    "IMG_7466"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "カートゥーン 07",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7466": "黒い面に、金色の模様が規則的に並ぶ横長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7480",
+   "section": "cartoon",
+   "order": 8,
+   "images": [
+    "IMG_7480"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "カートゥーン 08",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7480": "黒い枠に、白い布のような素材と赤い染みが取り付けられた縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7381",
+   "section": "human",
+   "order": 1,
+   "images": [
+    "IMG_7381"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ひと 01",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7381": "後光のような金色の円と、金茶色の衣のような面をもつ人物像が、赤い背景に描かれた作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7382",
+   "section": "human",
+   "order": 2,
+   "images": [
+    "IMG_7382"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ひと 02",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7382": "白地に赤い斜線と黒い×印、緑の大きな形が描かれた作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7447",
+   "section": "human",
+   "order": 3,
+   "images": [
+    "IMG_7447"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ひと 03",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7447": "金色の縁の中に、赤やピンクの凹凸が絡み合う縦長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7450",
+   "section": "human",
+   "order": 4,
+   "images": [
+    "IMG_7450"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ひと 04",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7450": "青緑の枠の中に、黒緑の人の上半身のような形が置かれた額装作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7454",
+   "section": "human",
+   "order": 5,
+   "images": [
+    "IMG_7454"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "ひと 05",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7454": "黄と緑の面に、ピンク色の大きなハートの形が置かれた額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7401",
+   "section": "malum",
+   "order": 1,
+   "images": [
+    "IMG_7401"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "マルム 01",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7401": "緑の枠の中に、年輪のような線が広がる赤い面と黄色の円をもつ額装作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7403",
+   "section": "malum",
+   "order": 2,
+   "images": [
+    "IMG_7403"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "マルム 02",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7403": "緑の面に、赤い丸い形が点在する正方形の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7404",
+   "section": "malum",
+   "order": 3,
+   "images": [
+    "IMG_7404"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "マルム 03",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7404": "緑の面に、赤と金色の円が花の形に集まり、周囲に紫の文字が見える金縁の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7405",
+   "section": "malum",
+   "order": 4,
+   "images": [
+    "IMG_7405"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "マルム 04",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7405": "緑の面に、細かな網目の模様と銀色の円、右に赤い円がある金縁の横長の額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7483",
+   "section": "ip",
+   "order": 1,
+   "images": [
+    "IMG_7483"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "IP 01",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7483": "赤い体にバナナの形が描かれた、輪郭が不定形の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7487",
+   "section": "ip",
+   "order": 2,
+   "images": [
+    "IMG_7487"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "IP 02",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7487": "黒い地に、赤い太陽のような形と緑の丘が描かれた縦長の作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7488",
+   "section": "ip",
+   "order": 3,
+   "images": [
+    "IMG_7488"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "IP 03",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7488": "木目のある地に、橙色の人形のような形が描かれた縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7408",
+   "section": "other",
+   "order": 1,
+   "images": [
+    "IMG_7408"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "その他 01",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7408": "緑の面に、木の断面の目のような形と、ピンクの形が置かれた額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7446",
+   "section": "other",
+   "order": 2,
+   "images": [
+    "IMG_7446"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "その他 02",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7446": "暗い木枠の中に、黄と茶のレンガ状の面と赤い面が入った額装作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7451",
+   "section": "other",
+   "order": 3,
+   "images": [
+    "IMG_7451"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "その他 03",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7451": "暗い木枠の中に、赤、黄、橙の水平な帯が重なった縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7452",
+   "section": "other",
+   "order": 4,
+   "images": [
+    "IMG_7452"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "その他 04",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7452": "黄色の面に、緑の水平な帯と赤茶色の形が置かれた額装作品"
+   },
+   "surface": null,
+   "home": true
+  },
+  {
+   "id": "w7457",
+   "section": "other",
+   "order": 5,
+   "images": [
+    "IMG_7457"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "その他 05",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7457": "金茶色の木地に、黒い染みと線画の人物が重なる縦長の作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7458",
+   "section": "other",
+   "order": 6,
+   "images": [
+    "IMG_7458"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "その他 06",
+   "title": null,
+   "form": "flat",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7458": "紫、緑、橙が重なる板に、線画の人物と小さな白い飾りが付いた作品"
+   },
+   "surface": null,
+   "home": false
+  },
+  {
+   "id": "w7463",
+   "section": "other",
+   "order": 7,
+   "images": [
+    "IMG_7463"
+   ],
+   "imageGroupStatus": "single",
+   "provisionalTitle": "その他 07",
+   "title": null,
+   "form": "framed",
+   "materials": null,
+   "dimensions": null,
+   "year": null,
+   "description": null,
+   "alt": {
+    "IMG_7463": "銀色の枠の中に波打つ木の形が入り、周囲に淡い色の革状の面が広がる作品"
+   },
+   "surface": null,
+   "home": false
+  }
+ ]
+}
